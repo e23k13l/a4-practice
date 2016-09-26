@@ -1,0 +1,21 @@
+body	{
+	background-color:blue;
+	text-align:center;}
+
+#banner {
+	background: linear-gradient(red, yellow, green);
+}
+hr		{color:yellow;}
+
+p	{text-align:center;
+		background-color:#00FFFF}
+		
+h1	{text-shadow: -2px -2px 5px #ff66ff;}
+
+#pinhead	{border-style: groove;
+    border-width: 7.5px;
+    box-shadow: 10px 10px 20px #ff661a}
+    
+#myslides	{border-style: ridge;
+    border-width: 7.5px;
+    box-shadow: 10px 10px 20px #39e600}
